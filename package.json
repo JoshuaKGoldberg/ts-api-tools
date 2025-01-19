@@ -57,7 +57,7 @@
 		"@types/eslint-plugin-markdown": "^2.0.2",
 		"@types/node": "^18.19.65",
 		"@typescript/vfs": "^1.6.0",
-		"@vitest/coverage-v8": "^2.1.5",
+		"@vitest/coverage-v8": "^3.0.0",
 		"@vitest/eslint-plugin": "^1.1.10",
 		"console-fail-test": "^0.5.0",
 		"cspell": "^8.16.0",
